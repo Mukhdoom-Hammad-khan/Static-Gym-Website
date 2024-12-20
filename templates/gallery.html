@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery - Gym Website</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <div class="logo">THE GYM</div>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/about">About Us</a>
+            <a href="/services">Services</a>
+            <a href="/gallery">Gallery</a>
+            <a href="/contact">Contact</a>
+            <a href="/registration">Register</a>
+            <a href="/login">Login</a>
+        </nav>
+    </header>
+    <div class="tm"></div>
+    <section>
+        <h1>Gallery</h1>
+        <div class="images">
+            <img src="{{ url_for('static', filename='pexels-pixabay-260352.jpg') }}" alt="Gym 1">
+            <img src="{{ url_for('static', filename='pexels-victorfreitas-791763.jpg') }}" alt="Gym 2">
+            <img src="{{ url_for('static', filename='pexels-willpicturethis-1954524.jpg') }}" alt="Gym 3">
+            <img src="{{ url_for('static', filename='pexels-victorfreitas-841130.jpg') }}" alt="Gym 4">
+            <img src="{{ url_for('static', filename='pexels-823sl-2294361.jpg') }}" alt="Gym 5">
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2024 THE GYM. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

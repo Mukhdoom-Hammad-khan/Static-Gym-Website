@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gym Website - Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <div class="logo">THE GYM</div>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/about">About Us</a>
+            <a href="/services">Services</a>
+            <a href="/gallery">Gallery</a>
+            <a href="/contact">Contact</a>
+            <a href="/registration">Register</a>
+            <a href="/login">Login</a>
+        </nav>
+    </header>
+    <div class="tm"></div>
+    <section class="hero">
+        <h1>Get Fit, Stay Strong!</h1>
+        <p>Your fitness journey begins here.</p>
+        <button class="joint" onclick="window.location.href='/registration'">Join Now</button>
+    </section>
+    <footer>
+        <p>&copy; 2024 THE GYM. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Gym Website</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <div class="logo">THE GYM</div>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/about">About Us</a>
+            <a href="/services">Services</a>
+            <a href="/gallery">Gallery</a>
+            <a href="/contact">Contact</a>
+            <a href="/registration">Register</a>
+            <a href="/login">Login</a>
+        </nav>
+    </header>
+    <div class="tm"></div>
+    <div class="mm">
+        <h1>Contact Us</h1>
+        <form>
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <textarea class="gg" placeholder="Your Message"></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </div class="mm">
+    <footer>
+        <p>&copy; 2024 THE GYM. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
