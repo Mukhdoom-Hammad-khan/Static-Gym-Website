@@ -35,3 +35,7 @@ Email: hammadahmedopx@gmail.com
 GitHub: Mukhdoom Hammad Khan (https://github.com/Mukhdoom-Hammad-khan)
 
 Author: Mukhdoom Hammad Khan
+
+## License
+
+This project is licensed under the [MIT](LICENSE).
