@@ -3,7 +3,7 @@
 ## Description
 This is a static website built using Flask (Python), HTML, and CSS. The website includes multiple pages such as Home, About, Gallery, Contact, Login, Registration, and Services.
 
-##Features
+## Features
 •	Home Page: A welcoming introduction to the gym and its offerings.<br>
 •	About Page: Detailed information about the gym, its history, and mission.<br>
 •	Gallery Page: A collection of images showcasing gym facilities and events.<br>
@@ -14,7 +14,7 @@ This is a static website built using Flask (Python), HTML, and CSS. The website 
 
 ## How to Run the Website (Beginner's Guide)
 ## Prerequisites
-•	Python 3.x installed on your system.
+•	Python 3.x installed on your system.<br>
 •	Pip for managing Python packages.
 
 ## Installation Steps
