@@ -26,7 +26,7 @@ This is a static website built using Flask (Python), HTML, and CSS. The website 
 6.	Access the Website: Open your web browser and visit: http://localhost:5000
 
 ## Troubleshooting Tips
-•	Ensure Python and pip are correctly installed.
+•	Ensure Python and pip are correctly installed.<br>
 •	If you encounter errors, run: pip install --upgrade pip pip install flask
 
 ## Contact
