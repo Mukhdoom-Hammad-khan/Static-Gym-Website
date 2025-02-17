@@ -29,6 +29,16 @@ This is a static website built using Flask (Python), HTML, and CSS. The website 
 •	Ensure Python and pip are correctly installed.<br>
 •	If you encounter errors, run: pip install --upgrade pip pip install flask
 
+## Screenshots
+![Home](Screenshots/Home.jpg)
+![About](Screenshots/About.jpg)
+![Services](Screenshots/Services.jpg)
+![Contact](Screenshots/Contact.jpg)
+![Gallery](Screenshots/Gallery.jpg)
+![Register](Screenshots/Register.jpg)
+![Login](Screenshots/Login.jpg)
+
+
 ## Contact
 For any questions or issues, feel free to contact:
 Email: hammadahmedopx@gmail.com
