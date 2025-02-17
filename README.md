@@ -30,16 +30,12 @@ This is a static website built using Flask (Python), HTML, and CSS. The website 
 •	If you encounter errors, run: pip install --upgrade pip pip install flask
 
 ## Screenshots
-![Home](Screenshots/Home.jpg)<br>
-![About](Screenshots/About.jpg)<br>
+![Home](Screenshots/Home.jpg)
+![About](Screenshots/About.jpg)
 ![Services](Screenshots/Services.jpg)
-<br>
 ![Gallery](Screenshots/Gallery.jpg)
-<br>
 ![Contact](Screenshots/Contact.jpg)
-<br>
 ![Register](Screenshots/Register.jpg)
-<br>
 ![Login](Screenshots/Login.jpg)
 
 
