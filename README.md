@@ -41,7 +41,7 @@ This is a static website built using Flask (Python), HTML, and CSS. The website 
 
 ## Contact
 For any questions or issues, feel free to contact:
-Email: hammadahmedopx@gmail.com
+Email: hammadahmedopx@gmail.com<br>
 GitHub: Mukhdoom Hammad Khan (https://github.com/Mukhdoom-Hammad-khan)
 
 Author: Mukhdoom Hammad Khan
