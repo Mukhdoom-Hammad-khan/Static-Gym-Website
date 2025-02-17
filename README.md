@@ -40,7 +40,7 @@ This is a static website built using Flask (Python), HTML, and CSS. The website 
 
 
 ## Contact
-For any questions or issues, feel free to contact:
+For any questions or issues, feel free to contact:<br>
 Email: hammadahmedopx@gmail.com<br>
 GitHub: Mukhdoom Hammad Khan (https://github.com/Mukhdoom-Hammad-khan)
 
