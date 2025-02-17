@@ -31,11 +31,17 @@ This is a static website built using Flask (Python), HTML, and CSS. The website 
 
 ## Screenshots
 ![Home](Screenshots/Home.jpg)
+<br>
 ![About](Screenshots/About.jpg)
+<br>
 ![Services](Screenshots/Services.jpg)
-![Contact](Screenshots/Contact.jpg)
+<br>
 ![Gallery](Screenshots/Gallery.jpg)
+<br>
+![Contact](Screenshots/Contact.jpg)
+<br>
 ![Register](Screenshots/Register.jpg)
+<br>
 ![Login](Screenshots/Login.jpg)
 
 
