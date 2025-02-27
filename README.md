@@ -18,12 +18,29 @@ This is a static website built using Flask (Python), HTML, and CSS. The website 
 •	Pip for managing Python packages.
 
 ## Installation Steps
-1.	Clone the Repository: git clone https://github.com/Mukhdoom-Hammad-Khan/Static-Gym-Website.git
-2.	Navigate to the Project Directory: cd Static-Gym-Website
-3.	Create a Virtual Environment (Optional but Recommended): python -m venv venv source venv/bin/activate # On Linux/Mac venv\Scripts\activate # On Windows
-4.	Install Required Dependencies: pip install -r requirements.txt
-5.	Run the Flask Application: python app.py
-6.	Access the Website: Open your web browser and visit: http://localhost:5000
+1.	Clone the Repository:
+```bash
+git clone https://github.com/Mukhdoom-Hammad-Khan/Static-Gym-Website.git
+```
+
+2.	Navigate to the Project Directory:
+```bash
+cd Static-Gym-Website
+```
+
+3.	Install Required Dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+4.	Run the Flask Application:
+```bash
+python app.py
+```
+
+5.	Access the Website:
+
+Open your web browser and visit: http://localhost:5000
 
 ## Troubleshooting Tips
 •	Ensure Python and pip are correctly installed.<br>
