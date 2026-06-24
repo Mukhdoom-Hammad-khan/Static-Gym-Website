@@ -61,6 +61,6 @@ For any questions or issues, feel free to contact:<br>
 Email: hammadahmedopx@gmail.com<br>
 GitHub: Mukhdoom Hammad Khan (https://github.com/Mukhdoom-Hammad-khan)
 
-Author: Mukhdoom Hammad Khan
+Author: Mukhdoom-Hammad-Khan
 ## License
 This project is licensed under the [MIT](LICENSE).
